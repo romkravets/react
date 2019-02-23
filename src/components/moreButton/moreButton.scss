@@ -1,0 +1,12 @@
+.More-button {
+    
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    &__item {
+        color: #fff;
+        padding: 1rem 4rem;
+        background-color: rgb(97, 197, 192);
+
+    }
+}
